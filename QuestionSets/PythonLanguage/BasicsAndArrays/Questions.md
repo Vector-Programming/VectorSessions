@@ -1,0 +1,3 @@
+- Make a program to print an array of the first 1000 natural numbers
+- Make a program to compute and print the sum of the first 1000 natural numbers
+- Make a program to create and print an array with the following structure using numpy features `arange` and `reshape` : `[[0, 1], [2, 3], [4, 5]]`
