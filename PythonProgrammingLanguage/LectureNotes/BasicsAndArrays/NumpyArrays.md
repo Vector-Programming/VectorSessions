@@ -27,7 +27,7 @@ Numpy is one of the most widely used library for matrix math in the world with h
  - ndarray`.dtype` -> get the datatype of the elements of the array
  - ndarray`.data` -> get the buffer containing the acutal elements of the array
 
-### Usefule Resources and Links:
+### Useful Resources and Links:
 - [Quick Tutorial](https://www.youtube.com/watch?v=8JfDAm9y_7s)
 - [Official Documentation](https://docs.scipy.org/doc/numpy-1.13.0/reference/index.html)
 - [Quick Start](https://docs.scipy.org/doc/numpy-1.13.0/user/quickstart.html)
