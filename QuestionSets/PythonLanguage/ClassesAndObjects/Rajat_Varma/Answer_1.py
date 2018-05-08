@@ -1,14 +1,10 @@
 class Player:
     def __init__(self):
-        age = int()
-        movement_speed = int()
-        health = int()
-        money = int()
 
-        self.age = age
-        self.movement_speed = movement_speed
-        self.health = health
-        self.money = money
+        self.age = int()
+        self.movement_speed = int()
+        self.health = int()
+        self.money = int()
 
     def move(self):
         self.movement_speed += 10
