@@ -3,6 +3,6 @@ Ans = []
 for i in A:
     O_i = []
     for x in A:
-        O_i.append(i*x)
+        O_i.append(i * x)
     Ans.append(O_i)
 print(Ans)
