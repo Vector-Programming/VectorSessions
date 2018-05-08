@@ -47,7 +47,7 @@ SmallMamaPyscho.age = 3500
 
 # He's old too,why not?
 
-print(----------------------)
+print("----------------------")
 
 print("Move")
 SmallMamaPyscho.move()
@@ -84,4 +84,4 @@ SmallMamaPyscho.attack(Player)
 SmallMamaPyscho.__str__()
 print("\n")
 
-print(----------------------)
+print("----------------------")
