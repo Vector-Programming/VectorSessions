@@ -1,4 +1,5 @@
 class Player:
+    
     def __init__(self):
         age = int()
         movement_speed = int()
